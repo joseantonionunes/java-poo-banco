@@ -1,0 +1,7 @@
+com\mycompany\banco\Conta\IConta.class
+com\mycompany\banco\Conta\Conta.class
+com\mycompany\banco\Conta\ContaPoupanca.class
+com\mycompany\banco\Cliente\Cliente.class
+com\mycompany\banco\BancoB.class
+com\mycompany\banco\Conta\ContaCorrente.class
+com\mycompany\banco\Banco.class
